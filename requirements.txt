@@ -1,0 +1,16 @@
+fastapi==0.115.12
+gensim==4.3.3
+numpy==1.24.3
+python-decouple==3.8
+scikit_learn==1.6.1
+SQLAlchemy==2.0.40
+uvicorn==0.34.2
+psycopg2-binary==2.9.10
+gdown==5.2.0
+pandas==2.2.3
+python-decouple==3.8
+pymongo==4.12.1
+fastapi-mcp==0.3.3
+mcp==1.7.0
+
+python-terrier==0.11.0
